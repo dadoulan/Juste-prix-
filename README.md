@@ -1,5 +1,7 @@
 # Juste prix
 
+![juste-prix](https://github.com/shompoth/Juste-prix-/blob/main/img/screenshot%20JS-2-JustePrix.png)
+
 Le juste prix est un jeu où le but est de deviner un prix généré aléatoirement compris entre 0 et 1000.
 
 Fonctionnalités :
